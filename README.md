@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ColdCloudd
-- 🌱 I’m currently learning Python, C#, C++
+- 🌱 I’m currently learning Python, C++
 
